@@ -9,7 +9,7 @@
     color: rgb(216, 47, 47);
 }
 
-.container {
+.container .image-col {
     padding-top: 5%;
 }
 
@@ -45,4 +45,5 @@
     font-family: 'Google sans';
     border-radius: 20px;
     box-shadow: 0px 20px 35px rgba(241, 165, 1, 0.15);
+    margin-bottom: 10%;
 }
