@@ -59,3 +59,12 @@
     border-radius: 20px;
     font-family: 'Google sans';
 }
+
+.sect-2 {
+    padding-top: 5%;
+}
+
+.sect-2 .part {
+    color: #14183E;
+    font-family: 'volkhov';
+}
