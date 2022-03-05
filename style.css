@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Epilogue&family=Playfair+Display+SC:wght@900&display=swap');
 * {
     padding: 0;
     margin: 0;
@@ -6,4 +7,16 @@
 
 .navbar-nav {
     color: rgb(216, 47, 47);
+}
+
+.container {
+    padding-top: 5%;
+}
+
+.container .african {
+    text-transform: uppercase;
+    font-size: 15px;
+    color: #DF6951;
+    font-family: 'poppins', sans-serif;
+    font-weight: 700;
 }
