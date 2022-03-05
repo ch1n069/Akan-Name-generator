@@ -92,7 +92,32 @@
 }
 
 .container .row .card-1 {
-    width: 370px;
+    width: 350px;
     height: 400px;
     margin-left: 30%;
+    border-radius: 30px;
+    border: none;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+}
+
+.container .row .card-1 .card-img {
+    padding-left: 4%;
+    padding-top: 3%;
+}
+
+.container .row .card-1 .round {
+    border-radius: 30px;
+}
+
+.container .row .card-1 h5 {
+    font-family: 'poppins';
+    font-weight: 500;
+    font-size: 18px;
+    color: #080809;
+    letter-spacing: 9.5%;
+    line-height: 22.41px
+}
+
+.container .row .card-1 p {
+    color: #84829A;
 }
