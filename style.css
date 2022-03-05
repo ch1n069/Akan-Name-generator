@@ -36,3 +36,13 @@
     color: #5E6282;
     ;
 }
+
+.container .button-1 {
+    height: 60px;
+    width: 170px;
+    background-color: #F1A501;
+    border: none;
+    font-family: 'Google sans';
+    border-radius: 20px;
+    box-shadow: 0px 20px 35px rgba(241, 165, 1, 0.15);
+}
