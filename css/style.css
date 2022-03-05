@@ -1,0 +1,129 @@
+@import url('https://fonts.googleapis.com/css2?family=Epilogue&family=Playfair+Display+SC:wght@900&display=swap');
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.navbar-nav {
+    color: rgb(216, 47, 47);
+}
+
+.container .image-col {
+    padding-top: 5%;
+}
+
+.container .african {
+    text-transform: uppercase;
+    font-size: 15px;
+    color: #DF6951;
+    font-family: 'poppins', sans-serif;
+    font-weight: 700;
+}
+
+.container h2 {
+    font-family: 'volhov';
+    font-weight: 700;
+    font-size: 50px;
+    color: #181E4B;
+    line-height: 60px;
+}
+
+.container .enables {
+    font-family: 'poppins';
+    font-size: 16px;
+    line-height: 20px;
+    color: #5E6282;
+    ;
+}
+
+.container .button-1 {
+    height: 60px;
+    width: 170px;
+    background-color: #F1A501;
+    border: none;
+    font-family: 'Google sans';
+    border-radius: 20px;
+    box-shadow: 0px 20px 35px rgba(241, 165, 1, 0.15);
+    margin-bottom: 10%;
+}
+
+.container .button-2 {
+    height: 60px;
+    margin-left: 5%;
+    margin-bottom: 10%;
+    width: 170px;
+    border: none;
+    background-color: #DF6951;
+    font-family: ' poppins';
+    border-radius: 20px;
+    font-family: 'Google sans';
+}
+
+.sect-2 {
+    padding-top: 5%;
+}
+
+.sect-2 .part {
+    color: #14183E;
+    font-family: 'volkhov';
+    font-size: 40px;
+    text-decoration: underline;
+    line-height: 64px;
+}
+
+.sect-2 .row .logo-3 {
+    color: rgb(126, 27, 27);
+    width: 162px;
+    height: 162px;
+    margin-bottom: 50px;
+}
+
+.sect-2 .row .logo-4 {}
+
+.container .row .content .about {
+    font-size: 40px;
+}
+
+.container .row .content p {
+    font-size: 16px;
+    line-height: 19.92px;
+    color: #5E6282;
+}
+
+.container .row .card-1 {
+    width: 350px;
+    height: 400px;
+    margin-left: 30%;
+    border-radius: 30px;
+    border: none;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+}
+
+.container .row .card-1 .card-img {
+    padding-left: 4%;
+    padding-top: 3%;
+}
+
+.container .row .card-1 .round {
+    border-radius: 30px;
+}
+
+.container .row .card-1 h5 {
+    font-family: 'poppins';
+    font-weight: 500;
+    font-size: 18px;
+    color: #080809;
+    letter-spacing: 9.5%;
+    line-height: 22.41px
+}
+
+.container .row .card-1 p {
+    color: #84829A;
+}
+
+.container .row .card-1 .card-body {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
