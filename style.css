@@ -67,7 +67,9 @@
 .sect-2 .part {
     color: #14183E;
     font-family: 'volkhov';
-    font-size: 38px;
+    font-size: 40px;
+    text-decoration: underline;
+    line-height: 64px;
 }
 
 .sect-2 .row .logo-3 {
@@ -78,3 +80,19 @@
 }
 
 .sect-2 .row .logo-4 {}
+
+.container .row .content .about {
+    font-size: 40px;
+}
+
+.container .row .content p {
+    font-size: 16px;
+    line-height: 19.92px;
+    color: #5E6282;
+}
+
+.container .row .card-1 {
+    width: 370px;
+    height: 400px;
+    margin-left: 30%;
+}
