@@ -67,4 +67,14 @@
 .sect-2 .part {
     color: #14183E;
     font-family: 'volkhov';
+    font-size: 38px;
 }
+
+.sect-2 .row .logo-3 {
+    color: rgb(126, 27, 27);
+    width: 162px;
+    height: 162px;
+    margin-bottom: 50px;
+}
+
+.sect-2 .row .logo-4 {}
