@@ -1,31 +1,59 @@
-    * {
-        padding: 0;
-        margin: 0;
-    }
-    
-    body {}
-    
-    .container .card-2 {
-        width: 600px;
-        height: 400px;
-    }
-    
-    .container .row-gen {
-        padding-left: 20%;
-        padding-top: 4%;
-    }
-    
-    .container .row-gen .col .card-2 .size {
-        width: 80%;
-    }
-    
-    .container .row-gen .col .card-2 h5 {
-        font-family: 'volhov';
-        color: #181E4B;
-        font-weight: 700;
-    }
-    
-    #card-3 {
-        width: 400px;
-        height: 400px;
-    }
+@import url('https://fonts.googleapis.com/css2?family=Epilogue&family=Playfair+Display+SC:wght@900&family=Poppins:ital,wght@1,900&family=Smooch+Sans:wght@800&display=swap');
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-image: url('../images/bg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.container .card-2 {
+    width: 600px;
+    height: 400px;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border: none;
+    background-color: #eee;
+}
+
+.container .row-gen {
+    padding-left: 20%;
+    padding-top: 4%;
+}
+
+.container .row-gen .col .card-2 .size {
+    width: 80%;
+}
+
+.container .row-gen .col .card-2 h5 {
+    font-family: 'volhov';
+    color: #181E4B;
+    font-weight: 700;
+}
+
+#submit {
+    font-family: 'poppins';
+}
+
+#cancel {
+    font-family: 'poppins';
+}
+
+#here {
+    font-family: 'Roboto Mono', monospace;
+}
+
+#card-3 {
+    width: 400px;
+    height: 400px;
+    border-radius: 25px;
+}
+
+#card-3 .cardi {
+    border: none;
+    box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(10, 221, 123, 0.226) 0px 2px 16px 0px;
+    border-radius: 10px;
+}
