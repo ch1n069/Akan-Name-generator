@@ -71,6 +71,45 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
 
+    <script>
+        $("#submit").click(function message() {
+            var inputEl = $('#date').val();
+            var maleEl = $('#male').val();
+            var femaleEl = $('#female').val();
+
+            if (inputEl == '' || maleEl == '' || femaleEl == '') {
+                swal({
+                    title: 'Some fields are empty',
+                    text: 'Please fill all  the fields',
+                    icon: 'warning',
+                    button: 'ok'
+                })
+
+            } else {
+                swal({
+                    title: 'Successfully submitted',
+                    text: 'success',
+                    icon: 'success',
+                    button: 'ok'
+                })
+            }
+        })
+        $("#cancel").click(function canc() {
+            var inputEl = $('#date').val()
+            if (inputEl == null) {
+                swal({
+                    title: ' Are you sure',
+                    text: 'You wont be able to reverse this action !',
+                    type: 'warning',
+                    button: 'ok'
+
+                })
+            }
+
+        })
+    </script>
+
+
 
     <!-- Option 2: Separate Popper and Bootstrap JS -->
     <!--
