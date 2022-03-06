@@ -21,3 +21,9 @@
 ## Installation 
 * Clone the repo or fork the repo 
 * After cloning the repo you can now run in on your browser
+
+
+
+## License 
+* Heres a link to the license [license](license)
+
