@@ -4,3 +4,13 @@
     }
     
     body {}
+    
+    .container .card-2 {
+        width: 600px;
+        height: 400px;
+    }
+    
+    .container .row-gen {
+        padding-left: 20%;
+        padding-top: 4%;
+    }
