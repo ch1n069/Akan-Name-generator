@@ -14,3 +14,13 @@
         padding-left: 20%;
         padding-top: 4%;
     }
+    
+    .container .row-gen .col .card-2 .size {
+        width: 80%;
+    }
+    
+    .container .row-gen .col .card-2 h5 {
+        font-family: 'volhov';
+        color: #181E4B;
+        font-weight: 700;
+    }
