@@ -8,6 +8,10 @@
 ## Author Bruno Gatiba 
 
 ## Screenshots
+
+![first screenshot of landing page](images/screenshot-2.png)
+
+
 ![screen shot for first page ](images/screenshot-1.png)
 
 
