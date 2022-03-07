@@ -8,7 +8,7 @@
 ## Author Bruno Gatiba 
 
 ## Screenshots
-![screen shot for first page ](../images/screenshot-1.png)
+![screen shot for first page ](images/screenshot-1.png)
 
 
 ## Bugs 
