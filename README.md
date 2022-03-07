@@ -8,6 +8,8 @@
 ## Author Bruno Gatiba 
 
 
+![screen shot for first page ](./im)
+
 
 ## Bugs 
 * There are no known bugs during deployment of the project 
